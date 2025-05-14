@@ -127,7 +127,7 @@ Atualmente testando e verificando a qualidade de sistemas completos atravez de :
 ## 📫 Conecte-se comigo
 
 - 📧 E-mail: [alissonhfp2003@gmail.com](mailto:alissonhfp2003@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/alisson-henrique-a3947725b](www.linkedin.com/in/alisson-henrique-a3947725b)  
+- 💼 LinkedIn: [linkedin.com/in/alisson-henrique](www.linkedin.com/in/alisson-henrique-fernandes-pereira)  
 
 ---
 
