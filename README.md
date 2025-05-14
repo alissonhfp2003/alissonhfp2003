@@ -28,20 +28,20 @@ Atualmente testando e verificando a qualidade de sistemas completos atravez de :
 
 ## 🏢 Experiência em Destaque
 
-- ** BSAFE (2025–ATUAL):**  Desenvolvimento de interfaces web com Next.js, integração com banco de dados(supabase), implmentção de funcionalidades CRUD com foco em performance e usabilidade .
-- ** HD TECNOLOGIA (2024–ATUAL):** Criação e execução de testes manuais e automatizados(UIPATCH) , Identificação, documentação e rastreamento de bugs, garantido que as falhas sejam corrigidas de forma rápida e eficaz
+- **BSAFE (2025–ATUAL):**  Desenvolvimento de interfaces web com Next.js, integração com banco de dados(supabase), implmentção de funcionalidades CRUD com foco em performance e usabilidade .
+- **HD TECNOLOGIA (2024–ATUAL):** Criação e execução de testes manuais e automatizados(UIPATCH) , Identificação, documentação e rastreamento de bugs, garantido que as falhas sejam corrigidas de forma rápida e eficaz
 - **TI Infra + RPA (2023–2024):** Suporte técnico de nível 1 a 3, manutençaõ de redes, monitoramento de sistemas e infraestrutura Azure/Linux.
 
 ---
 
 ## 📊 Tecnologias & Ferramentas
 
-**Frontend:** React · Next.js · React Native · Tailwind ·   
-**Backend:** FastAPI · C# · .NET Core · Python   
-**Infraestrutura:** Azure · Docker · Linux  · DevOps  
-**Banco de Dados:** PostgreSQL · SQL Server · SQLite . MoongoDB ·
-**RPA/IA:** UiPath · OpenAI · Pandas · 
-**Outros:** Git · Scrum · Agile · Figma · Active Directory · 
+- **Frontend:** React · Next.js · React Native · Tailwind ·   
+- **Backend:** FastAPI · C# · .NET Core · Python   
+- **Infraestrutura:** Azure · Docker · Linux  · DevOps  
+- **Banco de Dados:** PostgreSQL · SQL Server · SQLite . MoongoDB ·
+- **RPA/IA:** UiPath · OpenAI · Pandas · 
+- **Outros:** Git · Scrum · Agile · Figma · Active Directory · 
 <br>
 <img 
     align="left" 
