@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Alisson Henrique!
 
-🎓 **Bacharel em Sistemas de Informação** pela Universidade Estadual de Goiás, com atuação estratégica no desenvolvimento de soluções robustas, inteligentes e automatizadas. Apaixonado por tecnologia que resolve problemas reais.
+🎓 **Bacharel em Sistemas de Informação** pela Universidade Estadual de Goiás, com atuação estratégica no desenvolvimento de soluções robustas, inteligentes e automatizadas.
 
 ---
 
@@ -15,11 +15,12 @@ Atualmente testando e verificando a qualidade de sistemas completos atravez de :
 - Identificação, documentação e rastreamento de bugs, garantindo que as falhas sejam corrigidas de forma rápida e eficaz.
 - Colaboração com a equipe de desenvolvimento para melhorias contínuas e validação de correções.
 - Testes de regressão para assegurar que novas implementações não afetem as funcionalidades existentes.
+
 ---
 
 ## 🧠 Conhecimentos e Certificações
 
-- Certificação **Microsoft 365 Certified: conceitos básicos**
+- Certificação **Microsoft 365 Certified**
 - Experiência sólida em infraestrutura (suporte, redes, VM, Active Directory)
 - Atuação em **BI com Pytho**, ETL e automações em ambientes híbridos
   
@@ -27,8 +28,9 @@ Atualmente testando e verificando a qualidade de sistemas completos atravez de :
 
 ## 🏢 Experiência em Destaque
 
-- **Conveste Serviços Financeiros (2023–2024):** Desenvolvimento e sustentação de soluções financeiras com ASP.NET Core, CI/CD e BI.
-- **TI Infra + RPA (2022–2024):** Criação de automações com UiPath, suporte técnico de nível 1 a 3, monitoramento de sistemas e infraestrutura Azure/Linux.
+- ** BSAFE (2025–ATUAL):**  Desenvolvimento de interfaces web com Next.js, integração com banco de dados(supabase), implmentção de funcionalidades CRUD com foco em performance e usabilidade .
+- ** HD TECNOLOGIA (2024–ATUAL):** Criação e execução de testes manuais e automatizados(UIPATCH) , Identificação, documentação e rastreamento de bugs, garantido que as falhas sejam corrigidas de forma rápida e eficaz
+- **TI Infra + RPA (2023–2024):** Suporte técnico de nível 1 a 3, manutençaõ de redes, monitoramento de sistemas e infraestrutura Azure/Linux.
 
 ---
 
