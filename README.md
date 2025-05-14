@@ -42,8 +42,6 @@ Atualmente testando e verificando a qualidade de sistemas completos atravez de :
 **Banco de Dados:** PostgreSQL · SQL Server · SQLite . MoongoDB ·
 **RPA/IA:** UiPath · OpenAI · Pandas · 
 **Outros:** Git · Scrum · Agile · Figma · Active Directory · 
-### 🤖 Linguagens e Tecnologias
-
 <img 
     align="left" 
     alt="HTML"
