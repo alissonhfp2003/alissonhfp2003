@@ -22,7 +22,7 @@ Atualmente testando e verificando a qualidade de sistemas completos atravez de :
 
 - Certificação **Microsoft 365 Certified**
 - Experiência sólida em infraestrutura (suporte, redes, VM, Active Directory)
-- Atuação em **BI com Pytho**, ETL e automações em ambientes híbridos
+- Atuação em **BI com Python**, ETL e automações em ambientes híbridos
   
 ---
 
