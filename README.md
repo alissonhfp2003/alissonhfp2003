@@ -28,6 +28,7 @@ Atualmente testando e verificando a qualidade de sistemas completos atravez de :
 
 ## 🏢 Experiência em Destaque
 
+- **Aisa Tech (2025–ATUAL):**  Desenvolvimento de interfaces web com Rect.js e django no back-end, integração com banco de dados(Postgress e Mysql).
 - **BSAFE (2025–ATUAL):**  Desenvolvimento de interfaces web com Next.js, integração com banco de dados(supabase), implmentção de funcionalidades CRUD com foco em performance e usabilidade .
 - **HD TECNOLOGIA (2024–ATUAL):** Criação e execução de testes manuais e automatizados(UIPATCH) , Identificação, documentação e rastreamento de bugs, garantido que as falhas sejam corrigidas de forma rápida e eficaz
 - **TI Infra + RPA (2023–2024):** Suporte técnico de nível 1 a 3, manutençaõ de redes, monitoramento de sistemas e infraestrutura Azure/Linux.
